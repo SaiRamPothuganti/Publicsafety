@@ -17,7 +17,7 @@
 ## Software Requirements.
 
 - Wio (mobile App)
-- Oracle Cloud Account ( minimum 2 OCPU’s  , 1 OCPU – OCI Compute , 1 OCPU for Integration Instance)
+- Oracle Cloud Account ( minimum 2 OCPU’s  , 1 OCPU – OCI Compute , 1 OCPU for Integration Cloud Instance)
 - windows 10 OS installed on the laptop ( Drone Server)
 
 
