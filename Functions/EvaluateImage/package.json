@@ -1,0 +1,13 @@
+{
+	"name": "evaluateimage",
+	"version": "1.0.0",
+	"description": "example function",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.15",
+		"fs": "0.0.1-security",
+		"node-fetch": "^2.6.0"
+	}
+}

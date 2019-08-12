@@ -1,0 +1,9 @@
+schema_version: 20180708
+name: evaluateimage
+version: 0.0.132
+runtime: docker
+entrypoint: node func.js
+triggers:
+- name: evaluateimage
+  type: http
+  source: /evaluateimage
