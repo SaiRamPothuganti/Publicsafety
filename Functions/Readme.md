@@ -1,3 +1,11 @@
+# README for Public Safety 2.0 functions
 
-# Git Repo Need to Pull from Dan GIT. 
-# Shane is gonna to do on Tuesday by 11 aug  
+## To install the functions:
+
+* Make sure you're logged into Docker on the command line.
+
+TODO
+
+## To run the functions:
+
+TODO
