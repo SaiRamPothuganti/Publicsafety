@@ -1,0 +1,12 @@
+{
+	"name": "updateticket",
+	"version": "1.0.0",
+	"description": "update Netsuite ticket",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": "0.0.15",
+		"fdk": "^0.2.1"
+	}
+}
