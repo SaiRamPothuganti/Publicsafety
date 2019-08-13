@@ -1,7 +1,10 @@
-# Invoke Oracle Functions by its Endpoint
+# Invoke Oracle Functions using their endpoints
 
 This example demonstrates how to invoke a function deployed to Oracle Functions
-by its invoke endpoint URL. It's a fork and expansion of https://github.com/shaunsmith/fn-node-invokebyendpoint.git for use with the Public Safety 2.0 demo project.
+by its invoke endpoint URL. The contents of this directory are a fork and expansion of https://github.com/shaunsmith/fn-node-invokebyendpoint.git for use with the Public Safety 2.0 demo project.
+
+**For questions or issues encountered while following these instructions or working with the code in this directory, please contact Shane Landrum <shane.landrum@oracle.com>.**
+
 
 ## Pre-requisites
 
