@@ -1,0 +1,25 @@
+{
+  "name": "publicsafety-fn",
+  "version": "0.0.1",
+  "description": "Functions for Public Safety 2.0 demo.",
+  "main": "PullAndCheck/func.js",
+  "dependencies": {
+    "oracledb": "^3.1.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "fn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmdavis/PublicSafety-fn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmdavis/PublicSafety-fn/issues"
+  },
+  "homepage": "https://github.com/danielmdavis/PublicSafety-fn#readme"
+}
