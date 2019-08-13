@@ -1,5 +1,7 @@
 # README for Public Safety 2.0 functions
 
+**For questions or issues encountered while following these instructions or working with the code in this directory, please contact Shane Landrum <shane.landrum@oracle.com>.**
+
 ## To set up your Functions environment:
 
 **This section is challenging if you've never done it before. Prepare to spend most of a day making this work the first time you try it.**
