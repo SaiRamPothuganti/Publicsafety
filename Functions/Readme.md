@@ -19,6 +19,8 @@
 
 ## To invoke the functions:
 
-* for each function, you'll have to get the OCI endpoint URL. You can do this by running `fn inspect f appname functionname`, for example `fn inspect f ps20 evaluateimage`, and then reading through the output for the invocation URL.
+* for each function, you'll have to get the OCI endpoint URL. You can do this by running `fn inspect f appname functionname`, for example `fn inspect f ps20 evaluateimage`, and then reading through the output for the invocation URL. To get just the invoke endpoint URL, add `--endpoint` to the inspect command:
 
-TODO details about invokefuncbody.js.
+`fn inspect f ps20 evaluateimage --endpoint`
+
+**For full details on invoking the functions, see `/AQ/invokefn/readme.md` in this repository.**
