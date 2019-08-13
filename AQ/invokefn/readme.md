@@ -79,3 +79,5 @@ by its invoke endpoint URL. It's a fork and expansion of https://github.com/shau
 5. Most of the functions for the Public Safety project require a JSON body payload. You can invoke them and add that payload by running `invokefunc-body.js` like this:
 
     `node invokefunc-body.js <endpoint url> <JSON filename>`
+
+This directory contains JSON files appropriate for passing to each of the Public Safety functions. Names should be self explanatory. The JSON files will need to be edited appropriately for your particular environment.
