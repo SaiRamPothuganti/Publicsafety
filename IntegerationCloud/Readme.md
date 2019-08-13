@@ -1,1 +1,1 @@
-# import all these files into your IntegrationCloud Instance
+## import the .par  files into your IntegrationCloud Instance (in package section)
