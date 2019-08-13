@@ -1,0 +1,5 @@
+api-url: https://functions.us-phoenix-1.oraclecloud.com
+oracle.compartment-id: ocid1.compartment.oc1..aaaaaaaahjxjfscmmatqr6bqcmc6lgcfjowiupkdubtchs4wc5murelwfc6q
+oracle.profile: faas
+provider: oracle
+registry: phx.ocir.io/orasenatdpltintegration01/publicsafety20
