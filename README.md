@@ -1,20 +1,24 @@
-# Publicsafety
-# Innovation Project from Oracle .
+# Public Safety
+## An Oracle Innovation Project
 
-## Hardware Requirements.
 
-- Laptop -  windows 10 OS  (Drone Server)
-- Tello Drone - Ryze Tello Edu Drone powered by DJI ( link  to buy )
-- Linksys - Next-Gen AC Dual-Band AC600 USB Network Adapter – (this External NIC card helps you to connect to 2 WIFI’s at the same time – Which helps us to Communicate to the drone and Cloud at the same time).
--Building Model.
-- Wio Link  , Wio Node.
-- Grove - Temperature & Humidity Sensor （DHT11）
-- Grove – Light sensor
-- Grove - One Wire Temperature Sensor
-- Power bank (optional) 
-- Grove – Solid State Relay.
+### Hardware Requirements
 
-## Software Requirements.
+- Windows 10 OS (Drone Server)
+- Tello Drone: Ryze Tello Edu Drone powered by DJI 
+  - ( link  to buy )
+- Linksys: Next-Gen AC Dual-Band AC600 USB Network Adapter 
+  – (this External NIC card helps you to connect to 2 WIFI’s at the same time, allowing simultaneous communication with drone and cloud servers
+- Wio Link & Wio Node
+- Grove System Components
+  - Temperature & Humidity Sensor （DHT11）
+  – Light sensor
+  - One Wire Temperature Sensor
+  - Solid State Relay
+  - Power bank (optional) 
+- Building Model
+
+### Software Requirements
 
 - Wio (mobile App)
 - Oracle Cloud Account ( minimum 3 OCPU’s  , 1 OCPU – OCI Compute , 1 OCPU for Integration Cloud Instance , 1 - OCPU for ATP (for AQ & Data to store))
