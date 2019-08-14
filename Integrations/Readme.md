@@ -10,4 +10,4 @@ Spin-up the Integration Cloud Instance with 1 Message pack
 
 - for wionode connector please refer to the image "wionode" and url is https://us.wio.seeed.io/v1/node/  no Security Policy 
 
--
+- for PS_Trigger connetor , please edit -> test -> save -> close
