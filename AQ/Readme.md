@@ -11,7 +11,7 @@
 
   
   
-Below steps should help to setup Kafka AQ demo.
+Below steps will help to setup Kafka AQ demo.
 ## Step 1: Setup the database user. 
 In file AQSetup.sql, we are connecting using a sys privilege with the database. In our testing environment, sys/knl_test7 is the default user/password to connect as sysdba. This should be changed accordingly. 
 AQSetup.sql first creates a database user named aq/aq. It also grants privileges to aq so that further aq operations can be carried out.
