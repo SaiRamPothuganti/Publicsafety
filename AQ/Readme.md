@@ -12,7 +12,11 @@
  - consumers of AQ are present in the different Folder (Invokefn) becauase after consuming Messages the Consumer invoke functions to do Certain things .
  
 
-  
+## Execution of Producer and consumer should be like this 
+- javac  -classpath jars/KafkaAQ.jar:jars/aqapi.jar:jars/slf4j.jar:jars/jta.jar:jars/ojdbc8.jar:jars/jmscommon.jar  Producer1.java
+- java  -classpath jars/KafkaAQ.jar:jars/aqapi.jar:jars/slf4j.jar:jars/jta.jar:jars/ojdbc8.jar:jars/jmscommon.jar:.  Producer1 10
+- javac  -classpath jars/KafkaAQ.jar:jars/aqapi.jar:jars/slf4j.jar:jars/jta.jar:jars/ojdbc8.jar:jars/jmscommon.jar Consumer1.java
+- java  -classpath jars/KafkaAQ.jar:jars/aqapi.jar:jars/slf4j.jar:jars/jta.jar:jars/ojdbc8.jar:jars/jmscommon.jar:. Consumer1
   
 Below steps will help to setup Kafka AQ demo.
 ## Step 1: Setup the database user. 
