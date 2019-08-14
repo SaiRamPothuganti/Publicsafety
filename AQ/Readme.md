@@ -7,7 +7,10 @@
  - the URL's in Producer1.java should change 
   "https://burlingtonhub-orasenatdpltintegration01.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/WIO_PRODUCER/1.0/pushtoadw"
   
-  willl change with the newly imported url from Integration cloud ( Refer to Readme.md in IntegrationCloud Folder)
+  will change with the newly imported url from Integration cloud ( Refer to Readme.md in IntegrationCloud Folder)
+  
+ - consumers of AQ are present in the different Folder (Invokefn) becauase after consuming Messages the Consumer invoke functions to do Certain things .
+ 
 
   
   
