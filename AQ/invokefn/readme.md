@@ -84,3 +84,6 @@ by its invoke endpoint URL. The contents of this directory are a fork and expans
     `node invokefunc-body.js <endpoint url> <JSON filename>`
 
 This directory contains JSON files appropriate for passing to each of the Public Safety functions. Names should be self explanatory. The JSON files will need to be edited appropriately for your particular environment.
+
+
+## Note : while Excuting the Consumer1.java please copy the jars folder(from parent folder) to this folder and run this  
