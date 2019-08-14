@@ -59,3 +59,6 @@ select count(*), msg_state from aq$topic2 group by msg_state;
 Get number of enqueued and dequeued messages.
 Connect / as sysdba
 select queue_name, enqueued_msgs, dequeued_msgs from gv$persistent_queues;
+
+
+## Note : the Producer and Consumer of AQ can be run  from  any machine ( with java installed  , Preferred is OCI - compute ) 
