@@ -13,4 +13,5 @@
 
 - unzip the file
 - Place both folders where python is installed in your Windows Machine c:\python27 (so we dont change any file locations in anypart of the code or dependicies required )
-- 
+
+# upload the run.sh 
