@@ -4,7 +4,8 @@
 
 ### Hardware Requirements
 - Tello Drone: Ryze Tello Edu Drone powered by DJI 
-  - (link  to buy)
+  - https://www.apple.com/shop/product/HMBE2ZM/A/ryze-tello-edu-drone-powered-by-dji?fnode=359878eb0501816c5219a5d9fe44923300b1adcd52511952d106aa574667498f649ba65aceeb180b40f34fa5e1d7838d613d714d38f94e55dd38fe1deb17bd554ec491871cda1d45bbe8866692577c8fc0c1d9b88afad0fa702023856d43d688
+  
 - Linksys: Next-Gen AC Dual-Band AC600 USB Network Adapter 
   – (this External NIC card helps you to connect to 2 WIFI’s at the same time, allowing simultaneous communication with drone and cloud servers
 - Wio Link & Wio Node
