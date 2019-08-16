@@ -35,7 +35,7 @@
 
 ### OCI-compute Configuration (Terra-form)
 - Import the image into OCI 
-  – custom image with object storage url: COMPUTE
+  – custom image with object storage url: COMPUTE (https://objectstorage.us-ashburn-1.oraclecloud.com/p/IWcS0CfqE3lCT4Of0O0E-Ir6FQorZ6QluZz78y_6FYA/n/orasenatdpltintegration01/b/PublicSafetyImageRepo/o/OML_PS2)
 - VCN Should allow traffic (ingress & egress) through ports 80, 3306, 9094, 9092, 9093
 
 ### Sensors Configuration
