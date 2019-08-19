@@ -1,0 +1,4 @@
+.DS_Store
+Terraform/.terraform/
+node_modules/
+env
