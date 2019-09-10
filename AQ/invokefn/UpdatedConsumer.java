@@ -78,7 +78,7 @@ public class Consumer1 {
             }
             conn.disconnect();
 			 Float temperature_1 =  Float.parseFloat(json.getString("temperature"));
-				if(temperature_1 < 40)
+				if(temperature_1 > 40)
 				{
 				System.out.println("Entered inside");	
 				 Command[0] = "node";
